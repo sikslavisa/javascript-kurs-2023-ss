@@ -6,3 +6,5 @@ console.log("Hello from git repository");
 //git commit script.js -m"Added script.js file with git comments" a zatim se izvrši komanda git push
 
 console.log("TEST");
+
+console.log(12345);
